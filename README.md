@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [www.swapnil-shrestha.com.np](http://www.swapnil-shrestha.com.np)
+- 👨‍💻 Visit my Portfolio Website at [www.swapnil-shrestha.com.np](http://www.swapnil-shrestha.com.np)
 
 - 📫 How to reach me **shresthaswapnil03@gmail.com**
 
